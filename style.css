@@ -1,18 +1,13 @@
-html, body {
- margin: 0;
- pading: 0;
-}
-<style>
+
 html,body {
 padding: 0;
 margin: 0;
 font-family: "Arial";
 background-color: #a027b0;
 }
-}
+
+
 h1 {
 font-size: 64px;
- font-color:brown
+font-color:brown;
 
-
-</style>
